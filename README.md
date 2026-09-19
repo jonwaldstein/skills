@@ -5,6 +5,7 @@ Personal [Claude Code](https://claude.com/claude-code) skills.
 | Skill | What it does |
 |-------|--------------|
 | [pr](pr/SKILL.md) | Write or rewrite a pull request description: brief, upbeat, with QA steps a non-developer can follow. |
+| [linear-ticket](linear-ticket/SKILL.md) | Write or rewrite a Linear ticket: plain-language lead for stakeholders, steps to check for QA, a Technical details section for engineers. |
 
 ## Install
 
