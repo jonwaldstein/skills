@@ -48,6 +48,9 @@ An exclamation mark or one emoji is fine when the change is fun. 😄
 
 ## Rules
 
+- **Changelog.** If the PR changes production code and `changelog/` has no entry for the branch,
+  write one with the `changelog` skill before publishing.
+
 - **Length.** The Description section is one paragraph and/or at most three bullets. If it is
   longer, cut. Never add Affects, Visuals, Background, Architecture or Implementation sections.
 - **Voice.** First person plural or none ("This adds…", "Now the form…"). Casual but not sloppy.
